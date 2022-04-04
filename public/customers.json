@@ -1,0 +1,50 @@
+[
+    {
+      "id": "1",
+      "picture": "./images/p-1.png.png",
+      "name": "Joe Root",
+      "rev": "This is the best site ever I have seen and their products quality is also best.",
+      "gender": "Male",
+      "ratings" : 5
+    },
+    {
+      "id": "2",
+      "picture": "./images/p-2.png.png",
+      "name": "Doe Jhon",
+      "rev": "I am very grateful to get the product on time. thanks  the team.",
+      "gender": "Male",
+      "ratings" : 4.5
+    },
+    {
+      "id": "3",
+      "picture": "./images/p-3.png.png",
+      "name": "Veen Diesel",
+      "rev": "Thank!! It's very easier to order products and get the products.",
+      "gender": "Male",
+      "ratings" : 5
+    },
+    {
+      "id": "4",
+      "picture": "./images/p-4.png.png",
+      "name": "Json Roy",
+      "rev": "It's very nice site to order and get the products easily. Thanks buddy..",
+      "gender": "Male",
+      "ratings" : 4.5
+    },
+    {
+      "id": "5",
+      "picture": "./images/p-5.png.png",
+      "name": "Stive Smith",
+      "rev": "Thanks all, for Free shipping..",
+      "gender": "Male",
+      "ratings" : 5
+    },
+    {
+      "id": "6",
+      "picture": "./images/p-6.png.png",
+      "name": "AB Morkel",
+      "rev": "It's very good site. Their products quality is very good with a cheppest rate..",
+      "gender": "Male",
+      "ratings" : 4.5
+    }
+  ]
