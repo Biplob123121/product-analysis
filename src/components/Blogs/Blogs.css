@@ -1,0 +1,27 @@
+.blogs-container{
+    margin: 0px auto;
+    background-color: rgb(252, 252, 252);
+}
+.blogs-container h2{
+    text-align: center;
+}
+.blogs{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+   
+}
+.blog{
+    padding: 20px;
+    border: 2px solid gainsboro;
+    border-radius: 15px;
+    box-shadow: 5px 10px #888888;
+}
+
+@media only screen and (max-width: 600px) {
+    .blogs{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
