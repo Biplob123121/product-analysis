@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Laptop Mart
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projects live link : [Create React App](https://github.com/facebook/create-react-app).
+
+* This projects is designed with React js and vanilla css.
+* In this projects I have used custom hook and react router.
 
 ## Available Scripts
 
