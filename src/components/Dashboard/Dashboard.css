@@ -1,0 +1,19 @@
+.chart-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: rgb(252, 252, 252);
+}
+
+.chart-info{
+    padding: 0px 30px;
+}
+
+@media only screen and (max-width: 600px) {
+    .chart-container{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}

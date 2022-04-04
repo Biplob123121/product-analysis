@@ -1,6 +1,7 @@
 .customers-container{
-    margin: 20px;
+    margin: 0px auto;
     padding: 20px;
+    background-color: rgb(252, 252, 252);
 }
 .customers-container h2{
     text-align: center;
