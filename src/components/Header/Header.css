@@ -1,9 +1,9 @@
 .header{
+    display: flex;
     background-color: lightcyan;
 }
 .nav-bar{
     margin: 0px auto;
-   
     padding: 20px;
 }
 .nav-bar a{

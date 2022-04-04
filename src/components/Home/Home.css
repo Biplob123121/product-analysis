@@ -1,0 +1,56 @@
+.home-container{
+    background-color: rgb(252, 252, 252);
+}
+.header-container{
+    margin: 0px 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+.header-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+   
+}
+.header-info h1{
+    font-size: 40px;
+}
+.header-img{
+    width: 100%;
+}
+#site-title{
+    color: rgb(218, 99, 56);
+}
+.product-btn{
+    background-color:rgb(218, 99, 56);
+    color: white;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 10px;
+}
+.customer-container{
+    margin: 20px;
+    padding: 20px;
+}
+.customer-container h2{
+    text-align: center;
+}
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+.see-btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .header-container, .card-container{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
