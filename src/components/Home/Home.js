@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import useCustomers from '../../hooks/useReviews';
 import laptop from '../../pic/laptop.png';
 import Card from '../Card/Card';
@@ -33,7 +34,9 @@ const Home = () => {
                  }
               </div>
               <div className='see-btn'>
+                    <Link to ='/reviews'>
                     <button  className='product-btn'>SEE MORE</button>
+                    </Link>
               </div>
            </div>
        </section>
